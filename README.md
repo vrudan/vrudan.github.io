@@ -16,4 +16,38 @@ Senior Software Engineer with extensive experience building large-scale, high-pe
 - **Frontend (supporting):** JavaScript, React
 - Strong skills in debugging, refactoring, scalability, and mentoring teams
 
-  ## **Professional Experience**
+---
+
+## **Education**
+**Riga Technical University**  
+Bachelor’s Degree -2002
+
+---
+
+## **Key Skills**
+
+### **Languages & Frameworks**
+- **Ruby, Ruby on Rails**
+- **C#, .NET / .NET Core**
+- **Java, Spring Boot**
+- JavaScript, React (supporting)
+- Bash/Shell
+
+### **Databases**
+- PostgreSQL, MySQL, MariaDB  
+- MSSQL, Oracle  
+- Redis, MongoDB  
+- Database normalization, indexing, query optimization, performance tuning
+
+### **Infrastructure**
+- Docker, Kubernetes  
+- GitHub Actions, Jenkins, CI/CD pipelines  
+
+### **Architecture**
+- Microservices  
+- Event-driven systems  
+- REST APIs  
+- High availability & performance optimization
+
+---
+
