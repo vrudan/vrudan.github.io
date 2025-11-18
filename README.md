@@ -1,7 +1,7 @@
 # **Vladislavs Rudāns**
 **Senior Software Engineer — Ruby on Rails • C# • Java • Databases**  
 📍 Riga, Latvija  
-[LinkedIn](https://www.linkedin.com/in/vladislavs-rudans-51775712/)
+
 
 ## **Summary**
 Senior Software Engineer with extensive experience building large-scale, high-performance applications using **Ruby on Rails, C#, and Java**. Strong expertise in **database architecture, query optimization, distributed systems, and API design**. Proven ability to deliver robust backend systems, lead engineering efforts, and optimize data-heavy platforms for speed, reliability, and scalability.
@@ -39,6 +39,11 @@ Bachelor’s Degree -2002
 - Redis, MongoDB  
 - Database normalization, indexing, query optimization, performance tuning
 
+### Process Automation & Workflow Tools
+- Python scripting for automation and data processing  
+- n8n: workflow automation, API integration, scheduling, triggers  
+- Task orchestration, event-driven automation, error handling
+- 
 ### **Infrastructure**
 - Docker, Kubernetes  
 - GitHub Actions, Jenkins, CI/CD pipelines  
