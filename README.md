@@ -20,7 +20,7 @@ Senior Software Engineer with extensive experience building large-scale, high-pe
 
 ## **Education**
 **Riga Technical University**  
-Bachelor’s Degree -2002
+The Faculty of Computer Science and Information Bachelor’s Degree -2002
 
 ---
 
