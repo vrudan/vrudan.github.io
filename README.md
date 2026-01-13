@@ -10,7 +10,7 @@ Senior Software Engineer with extensive experience building large-scale, high-pe
 
 ## **Core Strengths**
 - **Backend Development:** Ruby on Rails, C#, Java  
-- **Database Expertise:** PostgreSQL, MySQL, MSSQL, Redis, NoSQL, performance tuning, indexing, query optimization  
+- **Database Expertise:** Oracle, PostgreSQL, MySQL, MSSQL, Redis, NoSQL, performance tuning, indexing, query optimization  
 - **Architectures:** Microservices, REST APIs, event-driven systems  
 - **DevOps & Cloud:** Docker, CI/CD  
 - **Frontend (supporting):** JavaScript, React
