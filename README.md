@@ -34,9 +34,7 @@ The Faculty of Computer Science and Information Bachelor’s Degree -2002
 - Bash/Shell
 
 ### **Databases**
-- PostgreSQL, MySQL, MariaDB  
-- MSSQL, Oracle  
-- Redis, MongoDB  
+- Oracle, PostgreSQL, MySQL, MariaDB  
 - Database normalization, indexing, query optimization, performance tuning
 
 ### Process Automation & Workflow Tools
